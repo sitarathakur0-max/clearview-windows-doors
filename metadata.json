@@ -1,0 +1,6 @@
+{
+  "name": "ClearView Windows & Doors",
+  "description": "Quality windows and doors for your London home. Professional window and door installations and replacements in London SE5 7HN. Call +44 20 8535 7540.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
